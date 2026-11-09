@@ -1,0 +1,28 @@
+# ==== 本地登录态 / 抓取缓存（含小红书 cookie，绝不能提交）====
+cookies.json
+工具/xhs-mcp/cookies.json
+工具/xhs-mcp/.home/
+工具/xhs-mcp/*.log
+工具/xhs-mcp/__pycache__/
+# 第三方二进制（按 工具/xhs-mcp/README.md 自行下载）
+工具/xhs-mcp/xiaohongshu-mcp
+工具/xhs-mcp/xiaohongshu-login
+
+# ==== 高德 API Key（按 README 存在 ~/.dsh/amap/key，这里兜底）====
+key
+.amap*
+
+# ==== 临时文件与备份 ====
+tmp/
+.tmp-*
+.dsh-backup/
+*.bak
+*.log
+
+# ==== 系统与解释器垃圾 ====
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+# ==== 真实行程：不上传（只保留成都示例）====
+行程/2026-11-11-长风公园-苏州河/

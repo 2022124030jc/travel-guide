@@ -1,0 +1,28 @@
+{
+  "markers": "https://uri.amap.com/marker?markers=104.059000%2C30.669000%2C%E5%AE%BD%E7%AA%84%E5%B7%B7%E5%AD%90%7C104.062500%2C30.657500%2C%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD%7C104.081000%2C30.653000%2C%E5%A4%AA%E5%8F%A4%E9%87%8C%20IFS%7C104.090000%2C30.641000%2C%E4%B9%9D%E7%9C%BC%E6%A1%A5&src=dsh-travel-guide&callnative=0",
+  "marker_single": "https://uri.amap.com/marker?position=104.059000,30.669000&name=%E5%AE%BD%E7%AA%84%E5%B7%B7%E5%AD%90&src=dsh-travel-guide&callnative=0",
+  "legs": [
+    {
+      "from": "宽窄巷子",
+      "to": "人民公园",
+      "distance": "1.3 km",
+      "nav": "https://uri.amap.com/navigation?from=104.059000,30.669000,%E5%AE%BD%E7%AA%84%E5%B7%B7%E5%AD%90&to=104.062500,30.657500,%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD&mode=walk&policy=0&src=dsh-travel-guide&callnative=0",
+      "web_dir": "https://ditu.amap.com/dir?type=walk&from%5Blnglat%5D=104.059000,30.669000&from%5Bname%5D=%E5%AE%BD%E7%AA%84%E5%B7%B7%E5%AD%90&to%5Blnglat%5D=104.062500,30.657500&to%5Bname%5D=%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD"
+    },
+    {
+      "from": "人民公园",
+      "to": "太古里 IFS",
+      "distance": "1.8 km",
+      "nav": "https://uri.amap.com/navigation?from=104.062500,30.657500,%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD&to=104.081000,30.653000,%E5%A4%AA%E5%8F%A4%E9%87%8C%20IFS&mode=walk&policy=0&src=dsh-travel-guide&callnative=0",
+      "web_dir": "https://ditu.amap.com/dir?type=walk&from%5Blnglat%5D=104.062500,30.657500&from%5Bname%5D=%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD&to%5Blnglat%5D=104.081000,30.653000&to%5Bname%5D=%E5%A4%AA%E5%8F%A4%E9%87%8C%20IFS"
+    },
+    {
+      "from": "太古里 IFS",
+      "to": "九眼桥",
+      "distance": "1.6 km",
+      "nav": "https://uri.amap.com/navigation?from=104.081000,30.653000,%E5%A4%AA%E5%8F%A4%E9%87%8C%20IFS&to=104.090000,30.641000,%E4%B9%9D%E7%9C%BC%E6%A1%A5&mode=walk&policy=0&src=dsh-travel-guide&callnative=0",
+      "web_dir": "https://ditu.amap.com/dir?type=walk&from%5Blnglat%5D=104.081000,30.653000&from%5Bname%5D=%E5%A4%AA%E5%8F%A4%E9%87%8C%20IFS&to%5Blnglat%5D=104.090000,30.641000&to%5Bname%5D=%E4%B9%9D%E7%9C%BC%E6%A1%A5"
+    }
+  ],
+  "total_distance": "4.7 km"
+}

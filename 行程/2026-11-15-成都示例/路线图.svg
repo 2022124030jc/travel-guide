@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="760" viewBox="0 0 1080 760" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbfdff"/><stop offset="1" stop-color="#eef3fa"/></linearGradient>
+<filter id="sh" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#14315c" flood-opacity="0.20"/></filter>
+</defs>
+<rect width="1080" height="760" fill="url(#bg)"/>
+<line x1="0" y1="0" x2="0" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="54" y1="0" x2="54" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="108" y1="0" x2="108" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="162" y1="0" x2="162" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="216" y1="0" x2="216" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="270" y1="0" x2="270" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="324" y1="0" x2="324" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="378" y1="0" x2="378" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="432" y1="0" x2="432" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="486" y1="0" x2="486" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="540" y1="0" x2="540" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="594" y1="0" x2="594" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="648" y1="0" x2="648" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="702" y1="0" x2="702" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="756" y1="0" x2="756" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="810" y1="0" x2="810" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="864" y1="0" x2="864" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="918" y1="0" x2="918" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="972" y1="0" x2="972" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="1026" y1="0" x2="1026" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="1080" y1="0" x2="1080" y2="760" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="0" x2="1080" y2="0" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="54" x2="1080" y2="54" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="108" x2="1080" y2="108" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="162" x2="1080" y2="162" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="216" x2="1080" y2="216" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="270" x2="1080" y2="270" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="324" x2="1080" y2="324" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="378" x2="1080" y2="378" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="432" x2="1080" y2="432" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="486" x2="1080" y2="486" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="540" x2="1080" y2="540" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="594" x2="1080" y2="594" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="648" x2="1080" y2="648" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="702" x2="1080" y2="702" stroke="#dfe7f2" stroke-width="1"/>
+<line x1="0" y1="756" x2="1080" y2="756" stroke="#dfe7f2" stroke-width="1"/>
+<path d="M 76.0 154.0 L 180.8 371.7 L 734.6 456.9 L 1004.0 684.0" fill="none" stroke="#1677ff" stroke-opacity="0.15" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 76.0 154.0 L 180.8 371.7 L 734.6 456.9 L 1004.0 684.0" fill="none" stroke="#1677ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M -7 -5 L 6 0 L -7 5 Z" fill="#1677ff" stroke="#ffffff" stroke-width="1.5" transform="translate(128.4,262.8) rotate(64.3)"/>
+<path d="M -7 -5 L 6 0 L -7 5 Z" fill="#1677ff" stroke="#ffffff" stroke-width="1.5" transform="translate(457.7,414.3) rotate(8.7)"/>
+<path d="M -7 -5 L 6 0 L -7 5 Z" fill="#1677ff" stroke="#ffffff" stroke-width="1.5" transform="translate(869.3,570.4) rotate(40.1)"/>
+<circle cx="76.0" cy="154.0" r="16" fill="#ffffff" opacity="0.95"/>
+<circle cx="76.0" cy="154.0" r="13.5" fill="#12b76a" filter="url(#sh)"/>
+<text x="76.0" y="159.0" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">1</text>
+<circle cx="180.8" cy="371.7" r="16" fill="#ffffff" opacity="0.95"/>
+<circle cx="180.8" cy="371.7" r="13.5" fill="#1677ff" filter="url(#sh)"/>
+<text x="180.8" y="376.7" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">2</text>
+<circle cx="734.6" cy="456.9" r="16" fill="#ffffff" opacity="0.95"/>
+<circle cx="734.6" cy="456.9" r="13.5" fill="#1677ff" filter="url(#sh)"/>
+<text x="734.6" y="461.9" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">3</text>
+<circle cx="1004.0" cy="684.0" r="16" fill="#ffffff" opacity="0.95"/>
+<circle cx="1004.0" cy="684.0" r="13.5" fill="#f04438" filter="url(#sh)"/>
+<text x="1004.0" y="689.0" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">4</text>
+<rect x="38.0" y="176.0" width="76.0" height="26" rx="7" fill="#ffffff" opacity="0.9"/>
+<text x="46.0" y="194.0" font-size="15" font-weight="600" fill="#1b2430">宽窄巷子</text>
+<rect x="80.8" y="358.7" width="76.0" height="26" rx="7" fill="#ffffff" opacity="0.9"/>
+<text x="88.8" y="376.7" font-size="15" font-weight="600" fill="#1b2430">人民公园</text>
+<rect x="758.6" y="443.9" width="94.6" height="26" rx="7" fill="#ffffff" opacity="0.9"/>
+<text x="766.6" y="461.9" font-size="15" font-weight="600" fill="#1b2430">太古里 IFS</text>
+<rect x="919.0" y="671.0" width="61.0" height="26" rx="7" fill="#ffffff" opacity="0.9"/>
+<text x="927.0" y="689.0" font-size="15" font-weight="600" fill="#1b2430">九眼桥</text>
+<text x="56" y="54" font-size="28" font-weight="700" fill="#1b2430">成都 Day 1 · 老城步行线</text>
+<text x="56" y="80" font-size="14" fill="#6b7a90">宽窄巷子 → 人民公园 → 太古里 → 九眼桥 · 步行/地铁混搭</text>
+<rect x="788" y="18" width="236" height="140" rx="12" fill="#ffffff" opacity="0.94" stroke="#dfe7f2"/>
+<text x="806" y="48" font-size="13.5" fill="#6b7a90">点位</text>
+<text x="1006" y="48" font-size="13.5" font-weight="600" text-anchor="end" fill="#1b2430">4 处</text>
+<text x="806" y="75" font-size="13.5" fill="#6b7a90">实际路程</text>
+<text x="1006" y="75" font-size="13.5" font-weight="600" text-anchor="end" fill="#1b2430">6.2 km</text>
+<text x="806" y="102" font-size="13.5" fill="#6b7a90">预计耗时</text>
+<text x="1006" y="102" font-size="13.5" font-weight="600" text-anchor="end" fill="#1b2430">约 1 小时 23 分</text>
+<text x="806" y="129" font-size="13.5" fill="#6b7a90">出行方式</text>
+<text x="1006" y="129" font-size="13.5" font-weight="600" text-anchor="end" fill="#1b2430">步行</text>
+<text x="56" y="734" font-size="12" fill="#6b7a90">坐标系 GCJ-02（高德）· 示意路线，非导航轨迹</text>
+</svg>
