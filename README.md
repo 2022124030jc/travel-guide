@@ -63,6 +63,9 @@ git clone https://github.com/2022124030jc/travel-guide.git
 # 高德 Key 未配置会显示 NOKEY，属于可选项，不影响零 Key 出图
 python3 工具/doctor.py
 
+# 仓库自检：语法 / JSON / 链接 / 冒烟 / 密钥扫描
+python3 工具/check.py
+
 # 路线图：零 Key、不联网；不带 --from-json 时用脚本内置的北京样例演示
 python3 .dsh/skills/travel-guide/scripts/amap_route.py \
   --out 路线图.svg --html 路线图.html --links 链接.json --title "路线图示例"
@@ -137,7 +140,7 @@ python3 .dsh/skills/travel-guide/scripts/share_card.py 分享卡片.json \
 | [模板/行程模板.md](模板/行程模板.md) | 输出格式模板 |
 | [行程/2026-11-11-长风公园-苏州河/](行程/2026-11-11-长风公园-苏州河/) | **端到端示例**：一条 2 小时夜游的全部产物（真实路线，已脱敏） |
 | [research/](research/) | 工具链实测记录（取材 / 高德 / 分享 / 现成技能） |
-| [工具/](工具/) | 取材服务与本机自检 |
+| [工具/](工具/) | 取材服务与本机自检（doctor.py / check.py） |
 | `.dsh/skills/travel-guide/` | 入口技能：取材 + 偏好 + 路线图 + 分享 |
 | `.dsh/skills/trip-planner-cn/` | 境内规划内核（MIT，vendored 自 npm `dsh-trip-planner-cn@0.1.2`） |
 
@@ -155,6 +158,8 @@ python3 .dsh/skills/travel-guide/scripts/share_card.py 分享卡片.json \
 | `trip-planner-cn/scripts/*` | HTML 路书、POI、导航、KML、机票深链 | 无 |
 | `trip-planner-cn/themes/render_*.py` | 七套主题设计页 + 静态 QC | 无（生成离线 HTML） |
 | `工具/doctor.py` | 取材链路自检 | 无 |
+
+另有仓库级自检 `工具/check.py`（Python 语法、JSON、Markdown 相对链接、技能 frontmatter、零 Key 路线图冒烟、疑似密钥扫描）。
 
 ## 一次产出包括哪些文件
 

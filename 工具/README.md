@@ -15,6 +15,14 @@ python3 工具/doctor.py
 
 会打印四条腿的实时状态（抖音连通、小红书服务、高德 Key、OSRM）。
 
+仓库自检：
+
+```bash
+python3 工具/check.py
+```
+
+检查已跟踪文件的 Python 语法、JSON、Markdown 相对链接、技能 frontmatter、零 Key 路线图冒烟和疑似密钥。
+
 ## 小红书
 
 ```bash
